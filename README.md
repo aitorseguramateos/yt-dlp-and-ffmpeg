@@ -3,7 +3,7 @@
 Para poder usar el código hay que seguir una série de pasos:
 1. Clonar el repositorio.
 ```
-git clone 
+git clone https://github.com/aitorseguramateos/yt-dlp-and-ffmpeg.git
 ```
 3. Ubicarte en el repositorio clonado.
 ```
